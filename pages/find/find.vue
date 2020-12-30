@@ -15,7 +15,7 @@
 		</view>
 		
 		<view class="little-nva">
-			<view>推荐11</view>
+			<view>推荐</view>
 			<view>教学</view>
 			<view>最新</view>
 		</view>

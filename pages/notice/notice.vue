@@ -4,7 +4,7 @@
 		<!-- 公共组件-每个页面必须引入 -->
 		<public-module></public-module>
 		<view class="notice-type">
-			<view>通知1</view>
+			<view>通知</view>
 			<view>系统</view>
 			<view>消息</view>
 		</view>

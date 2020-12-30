@@ -7,7 +7,7 @@
 			<view class="head-info">
 				<image src="../../static/demo/1.jpg"></image> 
 				<view>
-					<view>上官菲方111</view>
+					<view>上官菲</view>
 					<view>南山区西丽街道留仙茗苑</view>
 				</view>
 				<image src="../../static/demo/icon_right.png"></image>

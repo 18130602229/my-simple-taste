@@ -5,7 +5,7 @@
 		<public-module></public-module>
 		<view class="nav_list" @click="onPageJump('/pages/demo/formDemo')">
 			<image src="../../static/demo/icon_case.png" mode="aspectFit"></image>
-			<text>好友列111111表</text>
+			<text>好友列表</text>
 		</view>
 		<view class="nav_list" @click="onPageJump('/pages/demo/formDemo')">
 			<image src="../../static/demo/icon_case.png" mode="aspectFit"></image>
